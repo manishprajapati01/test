@@ -1,0 +1,53 @@
+[
+  {
+    "id": 1,
+    "sensor_name": "FS-201",
+    "consultant": "Dave",
+    "insect_type": "NOW",
+    "capture_timestamp_utc": "2020-07-06T04:18:40.240000Z",
+    "temperature_c": "25.54000",
+    "humidity_perc": "26.94000",
+    "lat": "36.48671",
+    "long": "-120.41422",
+    "convert_date": "2020-07-05T21:18:40.240000Z",
+    "date_extract": "2020-07-05",
+    "time_extract": "18:40.2",
+    "iso_week": "28.00000",
+    "trap_catch_last_week": 1,
+    "consultant_id": 2
+  },
+  {
+    "id": 2,
+    "sensor_name": "FS-201",
+    "consultant": "Dave",
+    "insect_type": "NOW",
+    "capture_timestamp_utc": "2020-07-06T04:28:44.494000Z",
+    "temperature_c": "25.62000",
+    "humidity_perc": "25.24000",
+    "lat": "36.48671",
+    "long": "-120.41422",
+    "convert_date": "2020-07-05T21:28:44.494000Z",
+    "date_extract": "2020-07-05",
+    "time_extract": "28:44.5",
+    "iso_week": "28.00000",
+    "trap_catch_last_week": 1,
+    "consultant_id": 2
+  },
+  {
+    "id": 3,
+    "sensor_name": "FS-201",
+    "consultant": "Dave",
+    "insect_type": "NOW",
+    "capture_timestamp_utc": "2020-07-06T04:32:52.508000Z",
+    "temperature_c": "25.79000",
+    "humidity_perc": "24.36000",
+    "lat": "36.48671",
+    "long": "-120.41422",
+    "convert_date": "2020-07-05T21:32:52.508000Z",
+    "date_extract": "2020-07-05",
+    "time_extract": "32:52.5",
+    "iso_week": "28.00000",
+    "trap_catch_last_week": 1,
+    "consultant_id": 2
+  }
+  ]
